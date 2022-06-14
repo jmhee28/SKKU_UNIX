@@ -20,3 +20,4 @@ multiple
 single redirection
 multiple redirection
 ```
+To exit the program, type ```exit```
