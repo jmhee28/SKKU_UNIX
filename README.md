@@ -5,18 +5,16 @@ and IPC.
 # Specification
 This program can do below commands
 ```
-ls
-man 
-sort 
-awk 
+ls 
+man
+sort
+awk
 bc
 cd
 pwd
 exit
 signal
-single
-pipe
-multiple
+single pipe
 single redirection
 multiple redirection
 ```
